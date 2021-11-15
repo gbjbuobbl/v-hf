@@ -1,0 +1,27 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    color: blue ;
+}
+
+.note {
+    color: black;
+    font-size: 20px;
+}
+
+.lucario {
+   font-size: 23px;
+   margin-top: 28px;
+   border-radius: 7px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius:20px ;
+    box-shadow: 5px 5px 5px gray;
+}
